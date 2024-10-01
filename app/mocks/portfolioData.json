@@ -1,0 +1,133 @@
+{
+  "introduction": {
+    "name": "강기훈",
+    "nickName": "강별명",
+    "email": "kangkh96@naver.com",
+    "githubUrl": "https://github.com/GiHun96"
+  },
+
+  "timelines": [
+    {
+      "date": "2023.04 ~ ",
+      "title": "협업 프로젝트 - 티케",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발"
+    },
+    {
+      "date": "2023.03 ~ ",
+      "title": "인공지능 교육 서비스 OUTTA 기술부원",
+      "description": "OUTTA 2기 활동, 프론트엔드 개발"
+    },
+    {
+      "date": "2023.01 ~ ",
+      "title": "개인 프로젝트 - 너드 포트폴리오",
+      "description": "개인 프로젝트 진행, 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.12 ~ ",
+      "title": "협업 프로젝트 - 수숙관",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.11 ~ 2022.12",
+      "title": "협업 프로젝트 - 동네#람들",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.11 ~ 2022.12",
+      "title": "개인 프로젝트 - 온라인 중국어 등운도",
+      "description": "개인 프로젝트 진행, 기획, 개발 및 배포"
+    },
+    {
+      "date": "2022.10 ~ 2022.11",
+      "title": "협업 프로젝트 - 가치와치",
+      "description": "팀 프로젝트 진행, 서비스 기획, 개발 및 배포"
+    },
+    {
+      "date": "2021.09 ~ 2022.06",
+      "title": "연세대 중앙컴퓨터동아리 YCC 부원 활동",
+      "description": "파이썬 자료구조 및 알고리즘 초/중급 스터디 - 스터디장으로 활동"
+    }
+  ],
+  "skillSets": [
+    {
+      "level": "1",
+      "skills": [
+        {
+          "name": "reactquery",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbzcPiI%2Fbtr0WeLgXtW%2F3a0bt5pJ23KLkOXPjUj4jK%2Fimg.png",
+          "backgroundColor": "#FFD94C"
+        },
+        {
+          "name": "formik",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fqadkb%2Fbtr01UZZ3vo%2FbTZZOM9GmQLNpcXOJ1wKoK%2Fimg.png",
+          "backgroundColor": "#DEEBF7"
+        },
+        {
+          "name": "moment",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fys90j%2Fbtr0RJrg76r%2F1gG1NEK76X7KYYo0Wg3wUK%2Fimg.png",
+          "backgroundColor": "#E2F0D9"
+        },
+        {
+          "name": "css",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FeyuJqF%2Fbtr0NMPkUel%2FdMmeEvwKadRhO2U8kHDmr0%2Fimg.png",
+          "backgroundColor": "#369CD6"
+        }
+      ]
+    },
+    {
+      "level": "2",
+      "skills": [
+        {
+          "name": "jsx",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcGGpuX%2Fbtr0VKQWSA7%2F6dNGkm9Wl4jtNZGngOVatk%2Fimg.png",
+          "backgroundColor": "#D269A9"
+        },
+        {
+          "name": "styled-components",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fr1vtQ%2Fbtr1dcMb0p6%2F1KK8nxmsjSt4CVVh63gAGk%2Fimg.png",
+          "backgroundColor": "#E7E6E6"
+        },
+        {
+          "name": "react",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkFAYr%2Fbtr0RKcGtWH%2FqziNWmAUgEeNi3mRMQH7X1%2Fimg.png",
+          "backgroundColor": "#52C0DE"
+        },
+        {
+          "name": "vscode",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FezGdt1%2Fbtr07AGPL1t%2F716GCEy17Ss3atY69dtDak%2Fimg.png",
+          "backgroundColor": "#2B2B30"
+        },
+        {
+          "name": "html",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fce8U10%2Fbtr1nDvoR66%2Fv2MGnd5FDradq7I8JjSiXK%2Fimg.png",
+          "backgroundColor": "#F16529"
+        }
+      ]
+    },
+    {
+      "level": "3",
+      "skills": [
+        {
+          "name": "redux",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcJRXgr%2Fbtr0RQDV6lz%2FlE6basCHCchKoy36hP3Jl0%2Fimg.png",
+          "backgroundColor": "#DAE3F3"
+        },
+        {
+          "name": "reactrouter",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcbefLu%2Fbtr0VKQWSAQ%2FYLIEnMo8fPK3G3KIk7iMg0%2Fimg.png",
+          "backgroundColor": "#A6A6A6"
+        },
+        {
+          "name": "axios",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5NGt6%2Fbtr01TNuPhN%2FnbGkswgkfHFN2uM0NbsDG1%2Fimg.png",
+          "backgroundColor": "#0A99E0"
+        },
+        {
+          "name": "javascript",
+          "imgUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEsCaM%2Fbtr1bkKzxGC%2FfbVaZSk2TuPPgArlY4iDmK%2Fimg.png",
+          "backgroundColor": "#FBDE34"
+        }
+      ]
+    }
+  ]
+}
