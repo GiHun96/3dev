@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 
 interface TimelineCardProps {
   title: string;
@@ -12,7 +12,6 @@ const TimelineCard = ({
   title,
   date,
   description,
-  isModalOpened,
   setIsModalOpened,
 }: TimelineCardProps) => {
   const handleClick = () => {
